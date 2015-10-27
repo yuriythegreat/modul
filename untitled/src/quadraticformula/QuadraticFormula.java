@@ -22,7 +22,6 @@ public class QuadraticFormula {
             System.out.println("D=" + d);
             System.out.println("Рівняння не має коренів");
 
-
         } else
             System.out.println("D=" + d);
         System.out.println("x1=" + x1);
